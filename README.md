@@ -73,6 +73,8 @@ telegram-notification-bot/
 ├── middleware/
 │   └── rate_limit.py    # Rate limiting middleware
 ├── README.md            # This file
+├── .env.example         # Example environment variables
+├── .gitignore           # Git ignore rules
 └── requirements.txt     # Project dependencies
 ```
 
